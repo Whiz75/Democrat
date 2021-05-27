@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Democrat</string>
+    <string name="action_settings">Settings</string>
+  
+  <!--extra strings-->
+  <string name="welcome_text">Welcome</string>
+  <string name="password_text">Password</string>
+  <string name="email_text">Email</string>
+  
+</resources>
